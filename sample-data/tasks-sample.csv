@@ -1,0 +1,7 @@
+TaskID,FeatureID,TaskTitle,Owner,Priority,Status,StartDate,DueDate
+T001,F001,Define adoption KPIs,Alex Morgan,High,Completed,2026-12-01,2026-12-15
+T002,F001,Build reporting data model,Jordan Lee,High,In Progress,2026-12-16,2027-01-10
+T003,F002,Document reconciliation rules,Taylor Brooks,High,In Progress,2027-01-05,2027-01-20
+T004,F003,Structure support knowledge,Sam Rivera,Medium,Completed,2026-11-01,2026-11-30
+T005,F004,Define exception criteria,Casey Bennett,High,Planning,2027-02-01,2027-02-15
+T006,F005,Define leadership KPIs,Alex Morgan,Medium,Planning,2027-03-01,2027-03-15
