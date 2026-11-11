@@ -89,7 +89,7 @@ Portfolio & Management Reporting
 
 
 Additional architecture documentation is available in the architecture/ folder.
-
+```
 Application Experience
 
 The application provides dedicated experiences for each stage of the product-delivery lifecycle.
