@@ -20,3 +20,4 @@ SharePoint — structured operational data layer.
 Power Automate — workflow orchestration, notifications and process automation.
 Power BI — portfolio reporting, performance analysis and management visibility.
 Production tenant information, internal URLs, connection references, environment identifiers and proprietary configuration details are intentionally excluded from this portfolio.
+
