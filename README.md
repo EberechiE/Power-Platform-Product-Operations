@@ -162,95 +162,152 @@ Task-level comments provide a structured way to capture progress updates and ret
 
 ![Comment Management screen](screenshots/06-comment-management.png)
 
-My Role
+---
+
+## My Role
 
 I designed and built the solution across the application lifecycle, including:
 
-Requirements gathering
-Process mapping
-Application architecture
-Data structure design
-User experience design
-Microsoft Power Apps development
-Power Fx business logic
-Workflow design
-Microsoft Power Automate integration
-Operational governance
-Reporting requirements
-Testing and validation
-User documentation
+- **Requirements gathering**
+- **Process mapping**
+- **Application architecture**
+- **Data structure design**
+- **User experience design**
+- **Microsoft Power Apps development**
+- **Power Fx business logic**
+- **Workflow design**
+- **Microsoft Power Automate integration**
+- **Operational governance**
+- **Reporting requirements**
+- **Testing and validation**
+- **User documentation**
 
 The solution required translating business and operational requirements into a structured digital operating model rather than simply digitizing individual forms.
 
-Technology Stack
-Area	Technology
-Application	Microsoft Power Apps
-Automation	Microsoft Power Automate
-Operational Data	Microsoft SharePoint
-Analytics	Microsoft Power BI
-Business Logic	Power Fx
-Reporting Logic	DAX / Power Query
-Collaboration	Microsoft Teams
-Design Approach
+---
 
-The solution was designed around several principles:
+## Technology Stack
 
-Structured Data Capture
+| Area | Technology |
+| --- | --- |
+| **Application** | Microsoft Power Apps |
+| **Automation** | Microsoft Power Automate |
+| **Operational Data** | Microsoft SharePoint |
+| **Analytics** | Microsoft Power BI |
+| **Business Logic** | Power Fx |
+| **Reporting Logic** | DAX / Power Query |
+| **Collaboration** | Microsoft Teams |
+
+---
+
+## Design Approach
+
+The solution was designed around five core principles.
+
+### 1. Structured Data Capture
 
 Standardized forms improve the consistency and quality of information captured across the product lifecycle.
 
-Connected Work
+### 2. Connected Work
 
 Features, tasks, ownership, delivery dates and progress updates are managed as related operational information rather than disconnected records.
 
-Workflow Automation
+### 3. Workflow Automation
 
 Structured application data creates the foundation for automated workflows, notifications and follow-up processes.
 
-Operational Visibility
+### 4. Operational Visibility
 
 The data model supports downstream reporting and provides greater visibility into delivery progress, ownership, dependencies and portfolio performance.
 
-Scalability
+### 5. Scalability
 
 Standardized processes and data structures reduce reliance on manual tracking and provide a foundation that can evolve as product operations grow.
 
-Key Outcomes
+---
+
+## Key Outcomes
 
 The solution established a structured framework for:
 
-Improving visibility across product delivery
-Standardizing feature and task management
-Strengthening ownership and accountability
-Reducing manual follow-up
-Supporting workflow automation
-Creating structured data for management reporting
-Improving consistency across operational processes
-Building a scalable foundation for portfolio growth
-Sample Data
+- **Improved visibility** across product delivery
+- **Standardized feature and task management**
+- **Stronger ownership and accountability**
+- Reduced reliance on manual follow-up
+- Workflow automation and notifications
+- Structured data for management reporting
+- Greater consistency across operational processes
+- A scalable foundation for portfolio growth
 
-Any example data included in this repository is fictional and created exclusively for portfolio demonstration.
+---
 
-Additional information is available in the sample-data/ folder.
+## Sample Data
 
-Portfolio Disclaimer
+Any example data included in this repository is **fictional and created exclusively for portfolio demonstration**.
 
-This repository is a sanitized case study demonstrating solution architecture, application design and technical capabilities.
+Additional information is available in the [`sample-data`](sample-data/) folder.
 
-Company-confidential information, production data, credentials, connection details, internal URLs, proprietary business logic and identifying information are not included.
+---
 
-Sample names, values and scenarios are fictional and provided exclusively for portfolio demonstration purposes.
+## Repository Structure
 
-The original production application and its .msapp package are not distributed through this repository.
+```text
+Power-Platform-Product-Operations/
+│
+├── README.md
+│
+├── architecture/
+│   └── README.md
+│
+├── screenshots/
+│   ├── README.md
+│   ├── 01-product-operations-home.png
+│   ├── 02-feature-submission.png
+│   ├── 03-feature-update.png
+│   ├── 04-new-task.png
+│   ├── 05-task-update.png
+│   └── 06-comment-management.png
+│
+└── sample-data/
+    └── README.md
 
-About the Builder
+---
+```
+## Portfolio Disclaimer
 
-Nichola Eberechi Ekeanyanwu
+> **This repository is a sanitized portfolio case study based on a solution I designed and built in a professional environment.**
 
-Digital Transformation · Automation · Business Systems · Business Intelligence · Product Operations
+To protect organizational and stakeholder confidentiality, this repository intentionally excludes:
 
-I design practical digital solutions that connect business requirements, data, process design, automation and reporting.
+- Production data
+- Company branding
+- Employee, customer and client information
+- Credentials and connection details
+- Internal URLs and environment identifiers
+- Production Power Apps `.msapp` files
+- Proprietary or organization-specific business logic
 
-LinkedIn: Nichola Eberechi Ekeanyanwu
-GitHub: EberechiE
-Email: nichola.eke@gmail.com
+Screenshots have been sanitized for portfolio use, and any sample names, values or scenarios presented in this repository are fictional.
+
+The purpose of this case study is to demonstrate my approach to **solution design, Power Platform development, process automation, data architecture and product operations**.
+
+---
+
+## About Me
+
+### Nichola Eberechi Ekeanyanwu
+
+**Digital Transformation · Automation · Business Systems · Business Intelligence · Product Operations**
+
+I'm a digital transformation and automation professional with **10 years of experience** working across business, data and technology.
+
+I design solutions that turn complex or fragmented business processes into more structured, automated and measurable operating models. My experience spans requirements gathering, process design, data modelling, Power Platform development, business intelligence, automation and AI-enabled solutions.
+
+My work has evolved from **reporting what is happening to building systems that improve what happens next**.
+
+### Connect With Me
+
+- **Portfolio:** your GitHub Pages portfolio URL
+- **LinkedIn:** [Nichola Eberechi Ekeanyanwu](https://www.linkedin.com/in/nicholaeekeanyanwu)
+- **GitHub:** [EberechiE](https://github.com/EberechiE)
+- **Email:** [nichola.eke@gmail.com](mailto:nichola.eke@gmail.com)
