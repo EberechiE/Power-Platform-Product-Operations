@@ -100,7 +100,7 @@ Central navigation provides access to the application's primary functions, inclu
 
 Once the sanitized screenshot is uploaded:
 
-screenshots/01-product-operations-home.png
+![Product Operations Management Platform home screen](screenshots/01-product-operations-home.png)
 
 2. Feature Submission
 
@@ -117,9 +117,7 @@ Delivery date
 Status
 Supporting notes
 
-Once the sanitized screenshot is uploaded:
-
-screenshots/02-feature-submission.png
+![Feature Submission screen](screenshots/02-feature-submission.png)
 
 3. Feature Management
 
@@ -136,10 +134,7 @@ Delivery dates
 Feature descriptions
 Status
 
-Once the sanitized screenshot is uploaded:
-
-screenshots/03-feature-update.png
-
+![Feature Management screen](screenshots/03-feature-update.png)
 4. Task Creation
 
 Delivery tasks are associated with specific product features and include structured fields for:
@@ -153,25 +148,19 @@ Due date
 Priority
 Status
 
-Once the sanitized screenshot is uploaded:
-
-screenshots/04-new-task.png
+![New Task Submission screen](screenshots/04-new-task.png)
 
 5. Task Management
 
 Existing tasks can be maintained throughout the delivery lifecycle, allowing ownership, priority, dates and status to remain current as work progresses.
 
-Once the sanitized screenshot is uploaded:
-
-screenshots/05-task-update.png
+![Task Management screen](screenshots/05-task-update.png)
 
 6. Collaboration & Comments
 
 Task-level comments provide a structured way to capture progress updates and retain previous comments for operational visibility.
 
-Once the sanitized screenshot is uploaded:
-
-screenshots/06-comment-management.png
+![Comment Management screen](screenshots/06-comment-management.png)
 
 My Role
 
