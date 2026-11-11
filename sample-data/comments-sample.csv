@@ -1,0 +1,5 @@
+CommentID,TaskID,CommentDate,Comment
+C001,T002,2027-01-03,Initial data model structure completed
+C002,T002,2027-01-07,KPI validation in progress
+C003,T003,2027-01-10,Reconciliation rules reviewed with stakeholders
+C004,T005,2027-02-05,Exception categories drafted for review
