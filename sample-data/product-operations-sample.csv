@@ -1,0 +1,6 @@
+FeatureID,Product,Capability,Objective,Status,Owner,Priority,TargetDate,ReleaseCycle
+F001,Fleet Analytics,Adoption Dashboard,Improve visibility into product adoption,In Progress,Alex Morgan,High,2027-01-31,Release 1
+F002,Payment Platform,Billing Reconciliation,Reduce manual reconciliation effort,Planning,Jordan Lee,High,2027-02-28,Release 1
+F003,Driver Experience,Knowledge Hub,Improve access to operational support content,Completed,Sam Rivera,Medium,2026-12-15,Release 1
+F004,Asset Management,Exception Monitoring,Improve identification of operational exceptions,In Progress,Taylor Brooks,High,2027-03-15,Release 2
+F005,Portfolio Management,Executive Reporting,Improve portfolio visibility and decision making,Planning,Casey Bennett,Medium,2027-04-01,Release 2
