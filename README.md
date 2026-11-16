@@ -98,8 +98,6 @@ The application provides dedicated experiences for each stage of the product-del
 
 Central navigation provides access to the application's primary functions, including feature creation, feature maintenance, task creation, task updates and comments.
 
-Once the sanitized screenshot is uploaded:
-
 ![Product Operations Management Platform home screen](screenshots/01-product-operations-home.png)
 
 2. Feature Submission
